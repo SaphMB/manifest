@@ -1,0 +1,5 @@
+---
+applications:
+- name: github-service-broker-ruby
+  disk: 256M
+  memory: 128M
